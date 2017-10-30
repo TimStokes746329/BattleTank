@@ -12,3 +12,4 @@ Find the course [here](https://www.udemy.com/unrealcourse)
 * BT01: Intro, Notes and Assets
 * BT02: Battle Tank Overview
 * BT03: Game Design Document (GDD)
+* BT04: Setting up a GitHub Repository
