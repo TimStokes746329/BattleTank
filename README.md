@@ -15,3 +15,4 @@ Find the course [here](https://www.udemy.com/unrealcourse)
 * BT04: Setting up a GitHub Repository
 * BT05: Creating and deleting Landscapes
 * BT06: Landscape setup and scaling
+* BT07: A Landscaping Process
