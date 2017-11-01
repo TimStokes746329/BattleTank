@@ -16,3 +16,4 @@ Find the course [here](https://www.udemy.com/unrealcourse)
 * BT05: Creating and deleting Landscapes
 * BT06: Landscape setup and scaling
 * BT07: A Landscaping Process
+* BT08: Upgrading Unreal Engine Version
