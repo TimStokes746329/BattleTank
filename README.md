@@ -6,7 +6,7 @@ Find the course [here](https://www.udemy.com/unrealcourse)
 ## Requirements
 * Download the Unreal Engine [here](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
 * Download Visual Studio [here](https://www.visualstudio.com/free-developer-offers)(Windows users)
-* Download XCode [here](https://developer.apple.com/xcode/)(IOS users)
+* Download XCode [here](https://developer.apple.com/xcode/)(OS X users)
 
 ## Lecture list (commits)
 * BT01: Intro, Notes and Assets
@@ -21,3 +21,4 @@ Find the course [here](https://www.udemy.com/unrealcourse)
 * BT10: Low Poly Landscapes
 * BT11: More Landscaping Tools
 * BT12: Tank Control System
+* BT13: Actors from multiple Meshes
